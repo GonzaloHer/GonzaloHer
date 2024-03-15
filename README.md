@@ -1,7 +1,3 @@
-# 💫 About Me:
-    🔭 I'm currently working on personal proyects.<br>    🌱 I'm currently learning more about web development, and I would like to learn more about AI.<br>    👯 I'm looking to collaborate on open-source projects related to web development or AI.<br>    🤔 I'm looking for help with improving my coding skills and learning new technologies.<br>    💬 Ask me about my experience working on personal web development projects or my interests in AI.<br>    📫 You can reach me through my LinkedIn or Github profiles.<br>    😄 Pronouns: He/him.<br>    ⚡ Fun fact: I enjoy playing video games in my free time and often use them as inspiration for my own coding projects.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-hernandez02) 
 
@@ -11,9 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GonzaloHer&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GonzaloHer&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloHer&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GonzaloHer&icon=0&color=0)](https://visitcount.itsvg.in)
